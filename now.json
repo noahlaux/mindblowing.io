@@ -1,4 +1,4 @@
 {
-  "builds": [{ "src": "*.html", "use": "@now/html-minifier" }],
-  "alias": ["mindblowing.io"]
+  "alias": ["mindblowing.io"],
+  "builds": [{ "src": "*.html", "use": "@now/html-minifier" }]
 }
